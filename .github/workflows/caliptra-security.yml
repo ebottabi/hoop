@@ -1,5 +1,5 @@
 name: Caliptra Security
-run-name: caliptra-ci-lmxlaw
+run-name: caliptra-ci-kx57tg
 on:
   pull_request:
     branches: [master]
